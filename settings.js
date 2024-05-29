@@ -21,21 +21,22 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['916909137213'] //ur owner number
-global.ownernomer = "916909137213" //ur owner number2
-global.ownername = "🦄Dream Guy Xeon" //ur owner name
-global.ytname = "YT: Xeon" //ur yt chanel name
-global.socialm = "GitHub: DGXeon" //ur github or insta name
+global.owner = ['+2349048313931'] //ur owner number
+global.ownernomer = "+2349048313931
+	l" //ur owner number2
+global.ownername = "𝘾𝙇𝞓𝙎𝙎𝞘𝘾 𝙏𝞢𝘾𝞖𝞜𝞗𝙇𝞗𝙂𝙔" //ur owner name
+global.ytname = "YT: Adesam16" //ur yt chanel name
+global.socialm = "GitHub: CLASSIC-TECH01" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //new
-global.botname = "Cheems Bot MD V8"
-global.ownernumber = '916909137213'
-global.ownername = '🦄드림 가이 Xeon'
-global.ownerNumber = ["916909137213@s.whatsapp.net"]
-global.ownerweb = "https://youtube.com/@DGXeon"
+global.botname = "𝘾𝙇𝞓𝙎𝙎𝞘𝘾 𝙏𝞢𝘾𝞖𝞜𝞗𝙇𝞗𝙂𝙔"
+global.ownernumber = '+2349048313931'
+global.ownername = '𝘾𝙇𝞓𝙎𝙎𝞘𝘾 𝙏𝞢𝘾𝞖𝞜𝞗𝙇𝞗𝙂𝙔'
+global.ownerNumber = ["+2349048313931@s.whatsapp.net"]
+global.ownerweb = "https://youtube.com/@Adesam016"
 global.websitex = "https://youtu.be/L_SIk59QeAU"
-global.wagc = "https://chat.whatsapp.com/Dc2qyVeK8JbJq8Gr3U1pKH"
+global.wagc = "https://chat.whatsapp.com/DjMqapR3VI2IgEL8tECEaFq"
 global.themeemoji = '🪀'
 global.wm = "Xeon Bot Inc."
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD6' //script link
